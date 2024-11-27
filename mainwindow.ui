@@ -94,7 +94,7 @@
          <height>30</height>
         </size>
        </property>
-       <widget class="QToolButton" name="toolButton_2">
+       <widget class="QToolButton" name="toolButton_In">
         <property name="geometry">
          <rect>
           <x>500</x>
@@ -216,7 +216,7 @@
          <height>30</height>
         </size>
        </property>
-       <widget class="QToolButton" name="toolButton">
+       <widget class="QToolButton" name="toolButton_Out">
         <property name="geometry">
          <rect>
           <x>500</x>
