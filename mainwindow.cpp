@@ -187,7 +187,6 @@ void MainWindow::on_pushButton_2_clicked()
 
         qDebug() << bit_res;
         file_out.write(bytes);
-        file_out.write(file.readAll());
 
         file.close();
         file_out.close();
